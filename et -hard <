@@ -1,0 +1,27 @@
+[33m4c0ff1b[m Minor correction [31m(Jason Decker, 5 weeks ago)[m
+[33mfeed6c0[m added json gem to avoid error w ruby 2.4 [31m(Cernan Bernardo, 11 months ago)[m
+[33m9e9cc99[m Merge pull request #13 from gj/patch-1 [31m(AnnJohn, 1 year, 7 months ago)[m
+[33m967a255[m pluralized has_many relationship [31m(gabe, 1 year, 8 months ago)[m
+[33m59b9a03[m Merge pull request #10 from the-widget/the-widget-1458242881 [31m(AnnJohn, 2 years ago)[m
+[33m4c79b67[m fixed grammatical error [31m(Brennen Awana, 2 years, 1 month ago)[m
+[33m4f6c30b[m optimize learn link [processing skip] [31m(Adam Jonas, 2 years, 2 months ago)[m
+[33mc37f323[m Merge pull request #9 from frankNowinski/frankNowinski-1451202144 [31m(AnnJohn, 2 years, 3 months ago)[m
+[33m3e5ede7[m Updated README.md [31m(Frank Nowinski, 2 years, 3 months ago)[m
+[33mcf5fd71[m Merge pull request #8 from learn-co-curriculum/wip [31m(Joe Burgess, 2 years, 4 months ago)[m
+[33md59b2d0[m all 5 issues [31m(vicfriedman, 2 years, 4 months ago)[m
+[33mc0da49f[m add learn link [processing skip] [31m(Adam Jonas, 2 years, 4 months ago)[m
+[33m7562d9f[m Merge pull request #2 from learn-co-curriculum/wip-lesson [31m(Daniel Fenjves, 2 years, 7 months ago)[m
+[33mca1139c[m Update README.md [31m(Daniel Fenjves, 2 years, 7 months ago)[m
+[33m98a4f35[m add creating objects [31m(deniznida, 2 years, 7 months ago)[m
+[33mc661eae[m Update README.md [31m(Daniel Fenjves, 2 years, 7 months ago)[m
+[33m15ab382[m add introduction [31m(deniznida, 2 years, 7 months ago)[m
+[33ma6fbd44[m Update README.md [31m(Daniel Fenjves, 2 years, 7 months ago)[m
+[33mdb92e43[m updated readme [31m(deniznida, 2 years, 7 months ago)[m
+[33m59568f8[m readme update [31m(deniznida, 2 years, 7 months ago)[m
+[33mac8428e[m add models and migrations [31m(deniznida, 2 years, 7 months ago)[m
+[33m0b5affc[m add contributing file [31m(deniznida, 2 years, 7 months ago)[m
+[33mc86d6c4[m add .learn file [31m(deniznida, 2 years, 7 months ago)[m
+[33m90ae9c8[m readme [31m(deniznida, 2 years, 7 months ago)[m
+[33m2ac17f0[m add objectives [31m(deniznida, 2 years, 7 months ago)[m
+[33m22924ca[m teacher outline [31m(dfenjves, 2 years, 7 months ago)[m
+[33m475e1eb[m initial commit [31m(dfenjves, 2 years, 7 months ago)[m
